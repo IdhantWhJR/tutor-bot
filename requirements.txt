@@ -1,6 +1,6 @@
 flask
 twilio
-google-generativeai
+groq
 gspread
 google-auth
 gunicorn
